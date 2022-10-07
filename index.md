@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: default
 title: "Home"
 ---
 
 
-![image alt <]("https://github.com/RZRuiZhang/RZRuiZhang.github.io/blob/master/rui.jpeg")
-
+<img align="left" width="100" height="200" src="https://github.com/RZRuiZhang/RZRuiZhang.github.io/blob/master/rui.jpeg">
 
 #### Biography：
 
