@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 
-![rui]("https://github.com/RZRuiZhang/RZRuiZhang.github.io/blob/master/R.jpeg")
+![rui](https://github.com/RZRuiZhang/RZRuiZhang.github.io/blob/master/R.jpeg)
 
 ## Rui Zhang
 
