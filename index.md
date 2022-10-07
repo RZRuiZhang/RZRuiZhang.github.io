@@ -6,6 +6,8 @@ title: "Home"
 
 <img align="left" width="100" height="200" src="https://github.com/RZRuiZhang/RZRuiZhang.github.io/blob/master/rui.jpeg">
 
+## Rui Zhang
+
 #### Biography：
 
 I am a master Student in Biostatistics at University of Fudan, advised by Professor Guoyou Qin. Previously, I completed my Bachelor’s degree 
