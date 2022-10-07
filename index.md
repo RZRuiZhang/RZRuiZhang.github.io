@@ -9,4 +9,5 @@ title: "Home"
 
 #### Biography：
 
-I am Rui Zhang, Postgraduate Student in Mathematical and Computational Finance in University of Oxford. I have received a Bachelor’s degree with Honors in Mathematics from Cuiying Honors College, Lanzhou University
+I am a master Student in Biostatistics at University of Fudan, advised by Guoyou Qin. Previously, I completed my Bachelor’s degree 
+with Honors in the Cuiying Honors College of Mathematics at Lanzhou University. 
