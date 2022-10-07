@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 
-![image alt <]("https://github.com/RZRuiZhang/RZRuiZhang.github.io/blob/master/rui.jpeg", width="100" height="200")
+![image alt <]("https://github.com/RZRuiZhang/RZRuiZhang.github.io/blob/master/rui.jpeg")
 
 
 #### Biography：
