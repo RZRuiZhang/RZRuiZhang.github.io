@@ -3,7 +3,9 @@ layout: default
 title: "Home"
 ---
 
-![alt text](https://github.com/RZRuiZhang/RZRuiZhang.github.io/blob/master/rui.jpeg?raw=true)
+<img align="left" width="60" height="100" src="https://github.com/RZRuiZhang/RZRuiZhang.github.io/blob/master/rui.jpeg">
+
+
 
 #### Biography：
 
