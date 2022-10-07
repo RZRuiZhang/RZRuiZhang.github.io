@@ -9,4 +9,4 @@ title: "Home"
 
 #### Biography：
 
-I am R, Postgraduate Student in Mathematical and Computational Finance in University of Oxford. I have received a Bachelor’s degree with Honors in Mathematics from Cuiying Honors College, Lanzhou University
+I am Rui Zhang, Postgraduate Student in Mathematical and Computational Finance in University of Oxford. I have received a Bachelor’s degree with Honors in Mathematics from Cuiying Honors College, Lanzhou University
