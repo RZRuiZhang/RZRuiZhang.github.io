@@ -8,7 +8,6 @@ title: "Home"
 
 ## Rui Zhang
 
-#### Biography：
 
 I am a master Student in Biostatistics at University of Fudan, advised by Professor Guoyou Qin. Previously, I completed my Bachelor’s degree 
 with Honors in the Cuiying Honors College of Mathematics at Lanzhou University. 
