@@ -3,8 +3,7 @@ layout: default
 title: "Home"
 ---
 
-
-![rui](https://github.com/RZRuiZhang/RZRuiZhang.github.io/blob/master/R.jpeg)
+<img src="https://github.com/RZRuiZhang/RZRuiZhang.github.io/blob/master/R.jpeg" height="100px" width="400px" >
 
 ## Rui Zhang
 
